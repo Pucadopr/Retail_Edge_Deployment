@@ -1,2 +1,7 @@
 # Retail_Edge_Deployment
-Testing for right hardware to use for a Queuing system in a Retail Outlet
+
+This repository contains notebooks necessary to perform hardware tests using the Intel DevCloud
+
+## License
+
+MIT
